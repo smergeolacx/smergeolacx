@@ -1,6 +1,7 @@
-- 👋 Hi, I’m pramod doing my major electronics but very intersted in cs and related fields
-- 👀 I’m interested in well programming, game devlopment, web dev and also very in chess and also
-- 🌱 I’m currently learning unity for game dev.
+Hi, I’m pramod doing my major electronics but very intersted in cs and related fields
+I’m interested in well programming, game devlopment, web dev and very much in chess. 
+I’m currently learning unity for game dev.0
+I love making stuff and lovw coding games without game engines.
 <!--- - 💞️ I’m looking to collaborate on ... --->
 - 📫 you can reach me on git. would love to meet new people.
 
