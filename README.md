@@ -3,7 +3,7 @@ I’m interested in well programming, game devlopment, web dev and very much in 
 I’m currently learning unity for game dev.0
 I love making stuff and lovw coding games without game engines.
 <!--- - 💞️ I’m looking to collaborate on ... --->
-- 📫 you can reach me on git. would love to meet new people.
+- 📫 you can reach me on git. Love to meet new people.
 
 <!---
 smergeolacx/smergeolacx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
